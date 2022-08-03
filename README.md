@@ -32,6 +32,13 @@ with 115200 baud
 
 openBK has open accesspoint reachable via 192.168.4.1
 
+## power measure
+
+custom command
+
+startDriver BL0937 
+
+
 ## random notes
 ```
 git clone https://github.com/openshwprojects/OpenBK7231T
