@@ -1,0 +1,5 @@
+[01-01 18:13:09 TUYA Notice][tuya_dltj_app.c:648] app_dltj_thread  free_mem_size:47360
+[01-01 18:13:19 TUYA Notice][tuya_dltj_app.c:648] app_dltj_thread  free_mem_size:47360
+do td cur_t:318--last:idx:18,t:310 -- new:idx:19,t:322 
+--0xc:08, shift_b:0, shift_g:0, X:0
+[01-01 18:13:29 TUYA Notice][tuya_dltj_app.c:648] app_dltj_thread  free_mem_size:47360
