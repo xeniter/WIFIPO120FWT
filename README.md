@@ -22,9 +22,18 @@ https://community.home-assistant.io/t/detailed-guide-on-how-to-flash-the-new-tuy
 
 https://github.com/openshwprojects/OpenBK7231T_App/releases
 
+## flashing under windows with bk writer
+
+erasing flash:0x00011000...FAILED
+
+with 115200 baud
+
+921600 worked
+
+openBK has open accesspoint reachable via 192.168.4.1
 
 ## random notes
-'''
+```
 git clone https://github.com/openshwprojects/OpenBK7231T
 cd OpenBK7231T/
 git submodule update --init
@@ -42,7 +51,7 @@ programm....
 Getting Bus...  : |   
 
 did not work, maybe caused modul was still connected to power pcb
-'''
+```
 
 ## front and back images :
 
